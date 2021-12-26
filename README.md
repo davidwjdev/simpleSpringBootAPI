@@ -10,10 +10,10 @@
 "/topicos"
 
 # PUT
-"topicos/{id}"
+"/topicos/{id}"
 
 # DELETE
-"topicos/{id}"
+"/topicos/{id}"
 
 
 API Spring Boot - Exercicio Curso Alura
